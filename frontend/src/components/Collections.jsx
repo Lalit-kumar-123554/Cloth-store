@@ -10,7 +10,9 @@ const allProducts = [
     name: "Heavy-Duty Orange Graphic T-Shirt",
     price: 199,
     category: "MEN",
-    image: "public/products/7.webp",
+    image: "/products/7.webp",
+
+
   },
   {
     id: 2,
@@ -18,7 +20,8 @@ const allProducts = [
     name: "Custom Print White T-Shirt",
     price: 299,
     category: "MEN",
-    image: "public/products/8.webp",
+    image: "/products/8.webp",
+
   },
   {
     id: 3,
@@ -26,7 +29,8 @@ const allProducts = [
     name: "Dual-Tone Performance Long Sleeve T-Shirt",
     price: 249,
     category: "MEN",
-    image: "public/products/9.webp",
+   image: "/products/9.webp",
+
   },
   {
     id: 23,
@@ -34,7 +38,8 @@ const allProducts = [
     name: "UrbanWear Blue Checkered Casual Shirt",
     price: 149,
     category: "MEN",
-    image: "public/products/23.webp",
+    image: "/products/23.webp",
+
   },
   {
     id: 24,
@@ -42,7 +47,8 @@ const allProducts = [
     name: "UrbanWear Light Beige Luxury Stretch Shirt",
     price: 249,
     category: "MEN",
-    image: "public/products/24.webp",
+    image: "/products/24.webp",
+
   },
   {
   id: 27,
@@ -50,7 +56,8 @@ const allProducts = [
   name: "Green Floral Sleeveless Summer Dress",
   price: 799,
   category: "WOMEN",
-  image: "public/products/27.webp",
+  image: "/products/27.webp",
+
 },
 
 {
@@ -59,7 +66,8 @@ const allProducts = [
   name: "Red Embroidered Anarkali Gown",
   price: 1899,
   category: "WOMEN",
-  image: "public/products/28.webp",
+  image: "/products/28.webp",
+
 },
 
 {
@@ -68,7 +76,8 @@ const allProducts = [
   name: "Blue Paisley Printed Midi Dress",
   price: 999,
   category: "WOMEN",
-  image: "public/products/29.webp",
+  image: "/products/29.webp",
+
 },
 
 {
@@ -77,7 +86,8 @@ const allProducts = [
   name: "Beige Luxury Embellished Evening Gown",
   price: 2499,
   category: "WOMEN",
-  image: "public/products/30.webp",
+  image: "/products/30.webp",
+
 },
 
 {
@@ -86,7 +96,8 @@ const allProducts = [
   name: "Pink Multicolor Floral Tiered Dress",
   price: 899,
   category: "WOMEN",
-  image: "public/products/31.webp",
+  image: "/products/31.webp",
+
 }
 
 ];
