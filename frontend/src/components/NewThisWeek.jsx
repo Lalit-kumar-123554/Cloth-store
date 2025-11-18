@@ -10,42 +10,47 @@ const products = [
     type: "V-Neck / Casual Graphic Tee",
     name: "ALONE Graphic Print T-Shirt",
     price: 1349,
-    image: "/public/products/3.webp",
+    image: "/products/3.webp",
   },
   {
     id: 2,
     type: "Cotton Polo / Casual Wear",
     name: "Navy Slim Fit Polo T-Shirt",
     price: 1299,
-    image: "/public/products/4.webp",
+    image: "/products/4.webp",
+
   },
   {
     id: 3,
     type: "Henley / Activewear Zip Polo",
     name: "Half-Zip High Neck T-Shirt",
     price: 1199,
-    image: "/public/products/5.webp",
+    image: "/products/5.webp",
+
   },
   {
     id: 4,
     type: "Crewneck / Premium Polo",
     name: "Black Full Sleeve Polo T-Shirt",
     price: 349,
-    image: "/public/products/6.webp",
+    image: "/products/6.webp",
+
   },
   {
     id: 21,
     type: "Premium Formal Shirt",
     name: "UrbanWear Light Beige Luxury Stretch Shirt",
     price: 249,
-    image: "/public/products/21.webp",
+    image: "/products/21.webp",
+
   },
   {
     id: 22,
     type: "Formal Slim Fit Shirt",
     name: "UrbanWear Steel Blue Classic Shirt",
     price: 899,
-    image: "/public/products/22.webp",
+    image: "/products/22.webp",
+
   },
 ];
 
